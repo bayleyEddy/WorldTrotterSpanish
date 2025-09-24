@@ -45,6 +45,9 @@
                                 <color key="textColor" red="0.88235294119999996" green="0.34509803919999998" blue="0.16078431369999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="70"/>
                                 <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardType="decimalPad"/>
+                                <connections>
+                                    <action selector="farhenheitFieldEditingChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="LZn-l8-j1O"/>
+                                </connections>
                             </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -64,6 +67,9 @@
                         </constraints>
                     </view>
                     <tabBarItem key="tabBarItem" title="Convert" image="thermometer.medium" catalog="system" id="b6n-pQ-MBH"/>
+                    <connections>
+                        <outlet property="celsiusLabel" destination="7LR-6t-Fdi" id="LaJ-tw-ohx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
