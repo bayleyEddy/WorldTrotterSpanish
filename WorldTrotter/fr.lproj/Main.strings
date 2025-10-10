@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "100"; ObjectID = "7LR-6t-Fdi"; */
+"7LR-6t-Fdi.text" = "100";
+
+/* Class = "UITabBarItem"; title = "Quiz"; ObjectID = "Bpz-aQ-Mu2"; */
+"Bpz-aQ-Mu2.title" = "Quiz";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "G5j-cW-jbE"; */
+"G5j-cW-jbE.text" = "???";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "KzY-oE-pau"; */
+"KzY-oE-pau.text" = "degrees Celsius";
+
+/* Class = "UIButton"; configuration.title = "Next Question"; ObjectID = "PB7-w2-yri"; */
+"PB7-w2-yri.configuration.title" = "Next Question";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PB7-w2-yri"; */
+"PB7-w2-yri.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "PrZ-Vg-UwU"; */
+"PrZ-Vg-UwU.text" = "is really";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "X6M-1g-FbV"; */
+"X6M-1g-FbV.placeholder" = "value";
+
+/* Class = "UIButton"; configuration.title = "Show Answer"; ObjectID = "Xeo-Yu-cbl"; */
+"Xeo-Yu-cbl.configuration.title" = "Show Answer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xeo-Yu-cbl"; */
+"Xeo-Yu-cbl.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "YsL-jP-ijm"; */
+"YsL-jP-ijm.title" = "Map";
+
+/* Class = "UILabel"; text = "degrees Farenheit"; ObjectID = "ZRK-SP-rsN"; */
+"ZRK-SP-rsN.text" = "degrees Farenheit";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "b6n-pQ-MBH"; */
+"b6n-pQ-MBH.title" = "Convert";
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "fPf-4a-DEI"; */
+"fPf-4a-DEI.title" = "Map";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "nf6-E0-w7j"; */
+"nf6-E0-w7j.text" = "???";
